@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\google\\protobuf\\nano\\protobuf-javanano\\3.0.0-alpha-7\\protobuf-javanano-3.0.0-alpha-7.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\google\\protobuf\\nano\\protobuf-javanano\\3.0.0-alpha-7\\protobuf-javanano-3.0.0-alpha-7.jar": "size 50197 mtime 2026-09-08T17:26:38.9962358Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\protobuf-javanano-3.0.0-alpha-7.jar-88351848bc84e0572b9ba28d7aac3f04d7921a8cc5bb1bea7bef9bd8d6a4e33f.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\protobuf-javanano-3.0.0-alpha-7.jar-88351848bc84e0572b9ba28d7aac3f04d7921a8cc5bb1bea7bef9bd8d6a4e33f.abi": "size 4782 mtime 2026-10-25T22:03:57.2955456Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

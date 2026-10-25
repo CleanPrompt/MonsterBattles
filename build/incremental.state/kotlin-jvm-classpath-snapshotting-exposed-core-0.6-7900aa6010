@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\exposed\\exposed-core\\0.61.0\\exposed-core-0.61.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\exposed\\exposed-core\\0.61.0\\exposed-core-0.61.0.jar": "size 1156371 mtime 2026-10-15T13:57:22.8487758Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\exposed-core-0.61.0.jar-104ef0231389c374731704512f6e0be1daa0f897df0b2f1b2214848d79dcd0ca.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\exposed-core-0.61.0.jar-104ef0231389c374731704512f6e0be1daa0f897df0b2f1b2214848d79dcd0ca.abi": "size 152691 mtime 2026-10-25T22:03:57.357447Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

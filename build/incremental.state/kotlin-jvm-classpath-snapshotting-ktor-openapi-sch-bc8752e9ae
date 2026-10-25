@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-openapi-schema-jvm\\3.6.0\\ktor-openapi-schema-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-openapi-schema-jvm\\3.6.0\\ktor-openapi-schema-jvm-3.6.0.jar": "size 572250 mtime 2026-10-04T22:58:00.0159848Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-openapi-schema-jvm-3.6.0.jar-6dda45c40880ec9d2ee2fd93a91c368bd4fc1d3768551ba46221144219024be3.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-openapi-schema-jvm-3.6.0.jar-6dda45c40880ec9d2ee2fd93a91c368bd4fc1d3768551ba46221144219024be3.abi": "size 64582 mtime 2026-10-25T22:03:57.3989747Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

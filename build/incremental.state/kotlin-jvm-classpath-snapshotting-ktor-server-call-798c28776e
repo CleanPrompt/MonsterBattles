@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-call-logging-jvm\\3.6.0\\ktor-server-call-logging-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-call-logging-jvm\\3.6.0\\ktor-server-call-logging-jvm-3.6.0.jar": "size 55052 mtime 2026-10-04T17:45:36.6927495Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-call-logging-jvm-3.6.0.jar-cdb76c434af22a78f089195903faa72254002e3cddc7b93d9789143be989ff0e.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-call-logging-jvm-3.6.0.jar-cdb76c434af22a78f089195903faa72254002e3cddc7b93d9789143be989ff0e.abi": "size 5660 mtime 2026-10-25T22:06:49.5211674Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\typesafe\\config\\1.4.9\\config-1.4.9.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\typesafe\\config\\1.4.9\\config-1.4.9.jar": "size 297970 mtime 2026-09-08T17:26:39.0152342Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\config-1.4.9.jar-88c9ac8e27c6d84ac57891f10a7393ed1d5b96bf5626baaf15d3ba251f849371.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\config-1.4.9.jar-88c9ac8e27c6d84ac57891f10a7393ed1d5b96bf5626baaf15d3ba251f849371.abi": "size 49074 mtime 2026-10-25T22:03:57.0493999Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

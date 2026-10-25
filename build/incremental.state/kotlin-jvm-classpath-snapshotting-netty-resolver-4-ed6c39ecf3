@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-resolver\\4.2.17.Final\\netty-resolver-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-resolver\\4.2.17.Final\\netty-resolver-4.2.17.Final.jar": "size 32977 mtime 2026-10-04T17:45:35.812137Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-resolver-4.2.17.Final.jar-7c6e9afad0696758b836d211b7b915157c11efd411f318d9c037f54d8ab86a65.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-resolver-4.2.17.Final.jar-7c6e9afad0696758b836d211b7b915157c11efd411f318d9c037f54d8ab86a65.abi": "size 5819 mtime 2026-10-25T22:03:57.2315365Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

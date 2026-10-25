@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-events-jvm\\3.6.0\\ktor-events-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-events-jvm\\3.6.0\\ktor-events-jvm-3.6.0.jar": "size 6397 mtime 2026-10-04T17:45:35.1075677Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-events-jvm-3.6.0.jar-97d1a67affc031eed5a29b3dc51f45c9cde77de763f4d49b78b6fb9b79baf4aa.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-events-jvm-3.6.0.jar-97d1a67affc031eed5a29b3dc51f45c9cde77de763f4d49b78b6fb9b79baf4aa.abi": "size 922 mtime 2026-10-25T22:03:57.1069035Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

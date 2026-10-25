@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-04T17:45:35.2550758Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.20.jar-a3f2e58937670a8105c6b4561db98fcffdf40c1d9b75604fe84218d84b69e50e.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.20.jar-a3f2e58937670a8105c6b4561db98fcffdf40c1d9b75604fe84218d84b69e50e.abi": "size 273025 mtime 2026-10-25T22:03:57.7122323Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

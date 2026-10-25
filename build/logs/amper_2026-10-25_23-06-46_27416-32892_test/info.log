@@ -1,0 +1,20 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:04.275 INFO  :MonsterBattles:compileJvmTest Slf4jExtensionsKt         Compiling module 'MonsterBattles' for platform 'jvm'...
+00:05.984 INFO  :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes
+00:10.312 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\battles\BattleRoutesTest.kt:30:55: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.314 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/battles/BattleRoutesTest.kt:30:55: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.317 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\battles\BattleRoutesTest.kt:45:28: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.317 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/battles/BattleRoutesTest.kt:45:28: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.320 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\battles\BattleRoutesTest.kt:48:28: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.320 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/battles/BattleRoutesTest.kt:48:28: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.322 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\monsters\MonsterRoutesTest.kt:23:49: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.322 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/monsters/MonsterRoutesTest.kt:23:49: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.325 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\monsters\MonsterRoutesTest.kt:31:27: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.325 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/monsters/MonsterRoutesTest.kt:31:27: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.328 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\monsters\MonsterRoutesTest.kt:39:24: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.328 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/monsters/MonsterRoutesTest.kt:39:24: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.331 ERROR :MonsterBattles:compileJvmTest LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\test\nl\monsterbattles\api\monsters\MonsterRoutesTest.kt:42:26: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.331 ERROR :MonsterBattles:compileJvmTest KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/test/nl/monsterbattles/api/monsters/MonsterRoutesTest.kt:42:26: Unresolved reference 'bodyAsText' on receiver of type 'HttpResponse'.
+00:10.370 ERROR                           MainKt                    Kotlin compilation failed with 7 errors (see above)

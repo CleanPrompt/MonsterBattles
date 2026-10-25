@@ -1,0 +1,8 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:48.785 INFO  :MonsterBattles:compileJvm Slf4jExtensionsKt         Compiling module 'MonsterBattles' for platform 'jvm'...
+00:51.365 INFO  :MonsterBattles:compileJvm KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes
+00:55.461 ERROR :MonsterBattles:compileJvm LoggingProblemReporter    C:\Users\phamb\IdeaProjects\MonsterBattles\src\nl\monsterbattles\api\config\Plugins.kt:39:13: Candidate 'val PipelineContext<*, PipelineCall>.application: Application' is inapplicable because of a receiver type mismatch.
+00:55.462 ERROR :MonsterBattles:compileJvm KotlinBuildToolsApiKt     C:/Users/phamb/IdeaProjects/MonsterBattles/src/nl/monsterbattles/api/config/Plugins.kt:39:13: Candidate 'val PipelineContext<*, PipelineCall>.application: Application' is inapplicable because of a receiver type mismatch.
+00:55.511 ERROR :MonsterBattles:resolveDependenciesJvm MainKt                    Task ':MonsterBattles:compileJvm' failed: Kotlin compilation failed with 1 errors (see above)

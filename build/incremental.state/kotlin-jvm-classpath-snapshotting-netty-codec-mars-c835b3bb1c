@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-marshalling\\4.2.17.Final\\netty-codec-marshalling-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-marshalling\\4.2.17.Final\\netty-codec-marshalling-4.2.17.Final.jar": "size 20378 mtime 2026-10-04T17:45:35.5598704Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-marshalling-4.2.17.Final.jar-5e565ed10e244f6f7c786bed9430d547fb2c6d280e851ed61da61a5e61725581.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-marshalling-4.2.17.Final.jar-5e565ed10e244f6f7c786bed9430d547fb2c6d280e851ed61da61a5e61725581.abi": "size 5684 mtime 2026-10-25T22:03:57.2185367Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

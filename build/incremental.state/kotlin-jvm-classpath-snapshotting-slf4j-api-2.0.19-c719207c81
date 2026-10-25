@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\slf4j\\slf4j-api\\2.0.19\\slf4j-api-2.0.19.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\slf4j\\slf4j-api\\2.0.19\\slf4j-api-2.0.19.jar": "size 70246 mtime 2026-10-04T17:45:35.4766678Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\slf4j-api-2.0.19.jar-ef1952b389fc5ae1afe8de4230fa626b2131a701235b4ac0b122fc88ede52d46.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\slf4j-api-2.0.19.jar-ef1952b389fc5ae1afe8de4230fa626b2131a701235b4ac0b122fc88ede52d46.abi": "size 11890 mtime 2026-10-25T22:03:56.9833562Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-engine\\5.13.4\\junit-jupiter-engine-5.13.4.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\jupiter\\junit-jupiter-engine\\5.13.4\\junit-jupiter-engine-5.13.4.jar": "size 341150 mtime 2026-10-25T21:59:02.5314336Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\junit-jupiter-engine-5.13.4.jar-25a6aceee8adf6385bd97a3d4933804530a0692779f30957fda5ca33f76b488e.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\junit-jupiter-engine-5.13.4.jar-25a6aceee8adf6385bd97a3d4933804530a0692779f30957fda5ca33f76b488e.abi": "size 61797 mtime 2026-10-25T22:06:49.4692284Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\2.3.21\\kotlin-reflect-2.3.21.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\2.3.21\\kotlin-reflect-2.3.21.jar": "size 3633922 mtime 2026-09-08T17:26:39.2842713Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-reflect-2.3.21.jar-ceba09a5552e701cd7e56c3bec57786761d81030a4cc794cd863200fd7aa8b2d.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-reflect-2.3.21.jar-ceba09a5552e701cd7e56c3bec57786761d81030a4cc794cd863200fd7aa8b2d.abi": "size 946503 mtime 2026-10-25T22:03:57.4850622Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

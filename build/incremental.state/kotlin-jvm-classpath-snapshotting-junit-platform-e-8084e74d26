@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-engine\\1.13.4\\junit-platform-engine-1.13.4.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\junit\\platform\\junit-platform-engine\\1.13.4\\junit-platform-engine-1.13.4.jar": "size 268584 mtime 2026-10-25T21:59:02.4714817Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\junit-platform-engine-1.13.4.jar-e150aab4958fb0982b45bee2efa938767576177513a89b6f3d8be9cfe4477176.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\junit-platform-engine-1.13.4.jar-e150aab4958fb0982b45bee2efa938767576177513a89b6f3d8be9cfe4477176.abi": "size 62103 mtime 2026-10-25T22:06:49.4716426Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-content-negotiation-jvm\\3.6.0\\ktor-server-content-negotiation-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-content-negotiation-jvm\\3.6.0\\ktor-server-content-negotiation-jvm-3.6.0.jar": "size 42267 mtime 2026-10-04T22:58:00.0479797Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-content-negotiation-jvm-3.6.0.jar-32041f9462f503a37579d6767de48efb03d938f8065d35a51b90d1c57e137f9a.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-content-negotiation-jvm-3.6.0.jar-32041f9462f503a37579d6767de48efb03d938f8065d35a51b90d1c57e137f9a.abi": "size 4992 mtime 2026-10-25T22:03:57.0404007Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

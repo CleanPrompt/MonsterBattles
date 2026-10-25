@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test-junit5\\2.3.20\\kotlin-test-junit5-2.3.20.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-test-junit5\\2.3.20\\kotlin-test-junit5-2.3.20.jar": "size 5102 mtime 2026-10-25T21:59:02.4515877Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-test-junit5-2.3.20.jar-b55961c7ded6ad2f5ee9046b7af836698ca5ccc0f29b5af6a2d12c882258647c.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlin-test-junit5-2.3.20.jar-b55961c7ded6ad2f5ee9046b7af836698ca5ccc0f29b5af6a2d12c882258647c.abi": "size 833 mtime 2026-10-25T22:06:49.4991666Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

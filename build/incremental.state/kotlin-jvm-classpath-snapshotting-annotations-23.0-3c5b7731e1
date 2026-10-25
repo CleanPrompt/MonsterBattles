@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar": "size 29371 mtime 2026-09-01T15:37:25.8428745Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\annotations-23.0.0.jar-671f0e37afa4292db2df48f16be667a2791a14af348cd2688055957c23fa8501.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\annotations-23.0.0.jar-671f0e37afa4292db2df48f16be667a2791a14af348cd2688055957c23fa8501.abi": "size 18016 mtime 2026-10-25T22:03:57.0033897Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

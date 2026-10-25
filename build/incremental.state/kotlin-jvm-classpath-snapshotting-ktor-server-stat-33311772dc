@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-status-pages-jvm\\3.6.0\\ktor-server-status-pages-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-server-status-pages-jvm\\3.6.0\\ktor-server-status-pages-jvm-3.6.0.jar": "size 35308 mtime 2026-10-05T09:57:23.2293631Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-status-pages-jvm-3.6.0.jar-9f50d39bbac3001f9daf2a1d0359a04e4af7e77e2006d7af6f27f71ccc260be6.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-server-status-pages-jvm-3.6.0.jar-9f50d39bbac3001f9daf2a1d0359a04e4af7e77e2006d7af6f27f71ccc260be6.abi": "size 3300 mtime 2026-10-25T22:03:57.0093898Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

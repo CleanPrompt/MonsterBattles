@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\eclipse\\jetty\\alpn\\alpn-api\\1.1.3.v20160715\\alpn-api-1.1.3.v20160715.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\eclipse\\jetty\\alpn\\alpn-api\\1.1.3.v20160715\\alpn-api-1.1.3.v20160715.jar": "size 5557 mtime 2026-09-08T17:26:39.0282386Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\alpn-api-1.1.3.v20160715.jar-8071369b5daa41d2839084d9a91f35a1f15f1dfb45bd2f7d5bf6a792c5d7659c.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\alpn-api-1.1.3.v20160715.jar-8071369b5daa41d2839084d9a91f35a1f15f1dfb45bd2f7d5bf6a792c5d7659c.abi": "size 1040 mtime 2026-10-25T22:03:57.1339124Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

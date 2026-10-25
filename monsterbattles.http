@@ -1,0 +1,21 @@
+@base = http://localhost:8080
+
+GET {{base}}/monsters
+
+###
+GET {{base}}/monsters?element=FIRE&sort=speed
+
+###
+GET {{base}}/monsters/1
+
+###
+POST {{base}}/battles
+Content-Type: application/json
+
+{"attackerId":1,"defenderId":2}
+
+###
+POST {{base}}/monsters
+Content-Type: application/json
+
+{"name":"Zephyra","element":"WIND","hp":90,"attack":20,"defense":8,"speed":120}

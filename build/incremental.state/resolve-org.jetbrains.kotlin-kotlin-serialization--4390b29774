@@ -1,0 +1,15 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-serialization-compiler-plugin-embeddable\\2.4.20\\kotlin-serialization-compiler-plugin-embeddable-2.4.20.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-serialization-compiler-plugin-embeddable\\2.4.20\\kotlin-serialization-compiler-plugin-embeddable-2.4.20.jar": "size 452378 mtime 2026-10-04T23:34:52.4225091Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-http-jvm\\3.6.0\\ktor-http-jvm-3.6.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\ktor\\ktor-http-jvm\\3.6.0\\ktor-http-jvm-3.6.0.jar": "size 458908 mtime 2026-10-04T17:45:35.160564Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-http-jvm-3.6.0.jar-d228aa21e272993be677eac2c77f63a8ffd549c2b6bc271b5e35a37105a0d240.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\ktor-http-jvm-3.6.0.jar-d228aa21e272993be677eac2c77f63a8ffd549c2b6bc271b5e35a37105a0d240.abi": "size 53963 mtime 2026-10-25T22:03:57.2295371Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

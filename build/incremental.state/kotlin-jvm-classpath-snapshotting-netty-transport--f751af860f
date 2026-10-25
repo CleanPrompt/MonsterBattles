@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-native-unix-common\\4.2.17.Final\\netty-transport-native-unix-common-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-native-unix-common\\4.2.17.Final\\netty-transport-native-unix-common-4.2.17.Final.jar": "size 46878 mtime 2026-10-04T17:45:35.7742708Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-transport-native-unix-common-4.2.17.Final.jar-d0679cfed754ba4574498632851f082af5123d583544bc2e0722228c01ed40cf.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-transport-native-unix-common-4.2.17.Final.jar-d0679cfed754ba4574498632851f082af5123d583544bc2e0722228c01ed40cf.abi": "size 9008 mtime 2026-10-25T22:03:57.2721224Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

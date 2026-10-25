@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-serialization-json-io-jvm\\1.11.0\\kotlinx-serialization-json-io-jvm-1.11.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-serialization-json-io-jvm\\1.11.0\\kotlinx-serialization-json-io-jvm-1.11.0.jar": "size 7054 mtime 2026-09-08T19:17:52.3135734Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlinx-serialization-json-io-jvm-1.11.0.jar-787996fc2df952e4da4454312ec4a78ed918ab7389f4c04515eabb34f9118c92.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlinx-serialization-json-io-jvm-1.11.0.jar-787996fc2df952e4da4454312ec4a78ed918ab7389f4c04515eabb34f9118c92.abi": "size 1390 mtime 2026-10-25T22:03:57.2885435Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

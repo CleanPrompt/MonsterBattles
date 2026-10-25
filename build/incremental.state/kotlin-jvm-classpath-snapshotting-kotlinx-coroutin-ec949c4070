@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.11.0\\kotlinx-coroutines-core-jvm-1.11.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.11.0\\kotlinx-coroutines-core-jvm-1.11.0.jar": "size 1577052 mtime 2026-09-08T17:26:37.9344269Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlinx-coroutines-core-jvm-1.11.0.jar-52c40cc0f8141785ac1c398a52b8cab693018c9d06018e2331ecd6a58e45b8ee.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\kotlinx-coroutines-core-jvm-1.11.0.jar-52c40cc0f8141785ac1c398a52b8cab693018c9d06018e2331ecd6a58e45b8ee.abi": "size 198066 mtime 2026-10-25T22:03:57.3979735Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

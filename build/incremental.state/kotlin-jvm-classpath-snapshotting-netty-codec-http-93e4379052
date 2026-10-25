@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-http\\4.2.17.Final\\netty-codec-http-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-http\\4.2.17.Final\\netty-codec-http-4.2.17.Final.jar": "size 679207 mtime 2026-10-04T17:45:35.4486605Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-http-4.2.17.Final.jar-925d5b6fcab839c17649b031d05dd200e127778148f9dbdd2c494cd4b8f157c9.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-http-4.2.17.Final.jar-925d5b6fcab839c17649b031d05dd200e127778148f9dbdd2c494cd4b8f157c9.abi": "size 130179 mtime 2026-10-25T22:03:57.2955456Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-classes-kqueue\\4.2.17.Final\\netty-transport-classes-kqueue-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-transport-classes-kqueue\\4.2.17.Final\\netty-transport-classes-kqueue-4.2.17.Final.jar": "size 116820 mtime 2026-10-04T17:45:35.5588742Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-transport-classes-kqueue-4.2.17.Final.jar-2179c542902f1ee02df23d69fde98165aaab56cab3e52b7453c073b6be5b2729.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-transport-classes-kqueue-4.2.17.Final.jar-2179c542902f1ee02df23d69fde98165aaab56cab3e52b7453c073b6be5b2729.abi": "size 16633 mtime 2026-10-25T22:03:57.2845367Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

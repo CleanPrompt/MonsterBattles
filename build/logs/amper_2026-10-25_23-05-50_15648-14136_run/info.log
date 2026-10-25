@@ -1,0 +1,6 @@
+Kotlin Toolchain version 0.13.0 (abc7a5f, 2026-10-01)
+running on Windows 11 10.0 jvm arch amd64
+
+00:02.205 INFO  :MonsterBattles:compileJvm Slf4jExtensionsKt         Compiling module 'MonsterBattles' for platform 'jvm'...
+00:03.465 INFO  :MonsterBattles:compileJvm KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes
+00:14.574 INFO  :MonsterBattles:compileJvm MessagesKt                Compilation successful for 'MonsterBattles' [jvm]

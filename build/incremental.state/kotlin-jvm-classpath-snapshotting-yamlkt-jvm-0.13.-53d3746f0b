@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\net\\mamoe\\yamlkt\\yamlkt-jvm\\0.13.0\\yamlkt-jvm-0.13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\net\\mamoe\\yamlkt\\yamlkt-jvm\\0.13.0\\yamlkt-jvm-0.13.0.jar": "size 267548 mtime 2026-09-08T17:26:37.9364276Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\yamlkt-jvm-0.13.0.jar-cd43fa397c260fef2459a01201e4b7425d0bfb690638e2589627468682383c25.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\yamlkt-jvm-0.13.0.jar-cd43fa397c260fef2459a01201e4b7425d0bfb690638e2589627468682383c25.abi": "size 34428 mtime 2026-10-25T22:03:57.3045464Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

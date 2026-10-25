@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar": "size 6806 mtime 2026-09-01T15:41:35.6259778Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\apiguardian-api-1.1.2.jar-81bd178a507ddea499a26f6347c2d02978fbf0939c708dcc8353b6d8bdf49f71.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\apiguardian-api-1.1.2.jar-81bd178a507ddea499a26f6347c2d02978fbf0939c708dcc8353b6d8bdf49f71.abi": "size 426 mtime 2026-10-25T22:06:49.4372276Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

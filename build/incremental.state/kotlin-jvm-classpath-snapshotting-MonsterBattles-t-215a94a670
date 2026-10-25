@@ -1,0 +1,22 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\artifacts\\CompiledJvmArtifact\\MonsterBattlesjvm\\resources-output"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\artifacts\\CompiledJvmArtifact\\MonsterBattlesjvm\\resources-output\\application.yaml": "size 114 mtime 2026-10-25T21:57:49.6928815Z",
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\artifacts\\CompiledJvmArtifact\\MonsterBattlesjvm\\resources-output\\logback.xml": "size 284 mtime 2026-10-25T21:57:49.6978803Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\MonsterBattles-test-resources-output-f7744d58ba37b55cfb4bcfd1c1fcbd4356bf51e0ed8e0b8edfb295f5bfd3615e.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\MonsterBattles-test-resources-output-f7744d58ba37b55cfb4bcfd1c1fcbd4356bf51e0ed8e0b8edfb295f5bfd3615e.abi": "size 4 mtime 2026-10-25T22:06:49.3787873Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

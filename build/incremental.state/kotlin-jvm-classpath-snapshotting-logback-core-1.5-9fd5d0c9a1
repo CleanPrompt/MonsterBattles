@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\ch\\qos\\logback\\logback-core\\1.5.38\\logback-core-1.5.38.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\ch\\qos\\logback\\logback-core\\1.5.38\\logback-core-1.5.38.jar": "size 641090 mtime 2026-09-08T17:26:38.4510621Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\logback-core-1.5.38.jar-ff6d5f183efe5a3d0f12c8685682bde2ba93420b396dcfb1035b8469ee42763a.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\logback-core-1.5.38.jar-ff6d5f183efe5a3d0f12c8685682bde2ba93420b396dcfb1035b8469ee42763a.abi": "size 144934 mtime 2026-10-25T22:03:57.0473988Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,29 @@
+product: jvm/app
+
+settings:
+  ktor: enabled
+  kotlin:
+    serialization: enabled
+  jvm:
+    release: 21
+    mainClass: nl.monsterbattles.api.ApplicationKt
+
+dependencies:
+  - $ktor.server.core
+  - $ktor.server.netty
+  - $ktor.server.config.yaml
+  - $ktor.server.contentNegotiation
+  - $ktor.serialization.kotlinx.json
+  - $ktor.server.statusPages
+  - ch.qos.logback:logback-classic:1.5.38
+  - com.h2database:h2:2.3.232
+  - org.jetbrains.exposed:exposed-core:0.61.0
+  - org.jetbrains.exposed:exposed-jdbc:0.61.0
+
+test-dependencies:
+  - $ktor.server.testHost
+  - org.jetbrains.kotlin:kotlin-test:2.3.20
+  - org.jetbrains.kotlin:kotlin-test-junit5:2.3.20
+  - org.junit.jupiter:junit-jupiter-api:5.13.4
+  - org.junit.jupiter:junit-jupiter-params:5.13.4
+  - org.junit.jupiter:junit-jupiter-engine:5.13.4

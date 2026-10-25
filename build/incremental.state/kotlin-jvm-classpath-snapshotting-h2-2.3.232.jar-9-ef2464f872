@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\h2database\\h2\\2.3.232\\h2-2.3.232.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\com\\h2database\\h2\\2.3.232\\h2-2.3.232.jar": "size 2651157 mtime 2026-10-15T13:57:23.0915395Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\h2-2.3.232.jar-980537a3a0361375412a04ab5c1319310e6d4f6b200a421bb870fe1d1fbbc941.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\h2-2.3.232.jar-980537a3a0361375412a04ab5c1319310e6d4f6b200a421bb870fe1d1fbbc941.abi": "size 239238 mtime 2026-10-25T22:03:57.1199127Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

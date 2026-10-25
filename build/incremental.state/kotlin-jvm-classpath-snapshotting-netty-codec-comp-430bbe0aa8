@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-compression\\4.2.17.Final\\netty-codec-compression-4.2.17.Final.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\netty\\netty-codec-compression\\4.2.17.Final\\netty-codec-compression-4.2.17.Final.jar": "size 237078 mtime 2026-10-04T17:45:35.3843034Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-compression-4.2.17.Final.jar-207a5664fc3ab556bafdf5ecd5d6b22e4ff604524b3e1b14744a38a3a7000fd6.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\netty-codec-compression-4.2.17.Final.jar-207a5664fc3ab556bafdf5ecd5d6b22e4ff604524b3e1b14744a38a3a7000fd6.abi": "size 37594 mtime 2026-10-25T22:03:57.1997567Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

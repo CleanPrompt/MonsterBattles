@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\exposed\\exposed-jdbc\\0.61.0\\exposed-jdbc-0.61.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\exposed\\exposed-jdbc\\0.61.0\\exposed-jdbc-0.61.0.jar": "size 51758 mtime 2026-10-15T13:57:21.9762329Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\exposed-jdbc-0.61.0.jar-5b7156e5e9a3b5248430c3df260bda22247c9511647834b0ea9248cad24949e1.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\exposed-jdbc-0.61.0.jar-5b7156e5e9a3b5248430c3df260bda22247c9511647834b0ea9248cad24949e1.abi": "size 4597 mtime 2026-10-25T22:03:57.0404007Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

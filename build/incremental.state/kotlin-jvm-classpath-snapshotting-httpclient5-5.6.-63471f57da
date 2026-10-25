@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\client5\\httpclient5\\5.6.4\\httpclient5-5.6.4.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\client5\\httpclient5\\5.6.4\\httpclient5-5.6.4.jar": "size 1057058 mtime 2026-10-04T17:45:37.5042419Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\httpclient5-5.6.4.jar-b3ad4cc75d1b7893f0bc4cc70ce2547b2c99a6c0b2dbc3b283bcb04061d33fb4.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\httpclient5-5.6.4.jar-b3ad4cc75d1b7893f0bc4cc70ce2547b2c99a6c0b2dbc3b283bcb04061d33fb4.abi": "size 191837 mtime 2026-10-25T22:06:49.6030506Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

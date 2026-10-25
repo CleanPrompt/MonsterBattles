@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jboss\\marshalling\\jboss-marshalling\\2.3.0\\jboss-marshalling-2.3.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jboss\\marshalling\\jboss-marshalling\\2.3.0\\jboss-marshalling-2.3.0.jar": "size 238365 mtime 2026-09-08T17:26:38.2999966Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\jboss-marshalling-2.3.0.jar-1808574cf0d426014402f721471139ee2548be56ccec9686201fc17c7689afa2.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\jboss-marshalling-2.3.0.jar-1808574cf0d426014402f721471139ee2548be56ccec9686201fc17c7689afa2.abi": "size 52699 mtime 2026-10-25T22:03:57.3444496Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

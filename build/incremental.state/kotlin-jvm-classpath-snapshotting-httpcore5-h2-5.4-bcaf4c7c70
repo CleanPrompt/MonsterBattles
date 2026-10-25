@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\core5\\httpcore5-h2\\5.4.3\\httpcore5-h2-5.4.3.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\phamb\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\apache\\httpcomponents\\core5\\httpcore5-h2\\5.4.3\\httpcore5-h2-5.4.3.jar": "size 263675 mtime 2026-10-04T17:45:37.4010575Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\httpcore5-h2-5.4.3.jar-052a9cb020d16d955d5f334e7288b4de23a86716e38336a26460f9e849fe4564.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\phamb\\IdeaProjects\\MonsterBattles\\build\\ic-cache\\classpath-snapshots\\httpcore5-h2-5.4.3.jar-052a9cb020d16d955d5f334e7288b4de23a86716e38336a26460f9e849fe4564.abi": "size 44859 mtime 2026-10-25T22:06:49.5610772Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
